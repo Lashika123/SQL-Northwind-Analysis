@@ -248,5 +248,3 @@ Interested in **Data Analysis, SQL, Machine Learning, and Business Intelligence*
 
 
 
-
-## Project Structure
